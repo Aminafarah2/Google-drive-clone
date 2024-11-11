@@ -4,7 +4,7 @@
 🤸 Quick Start
 🕸️ Snippets (Code to Copy)
 🔗 Assets
-🚀 More
+
 🚨 Tutorial
 This repository contains the code corresponding to an in-depth tutorial 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
@@ -58,8 +58,8 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone https://github.com/JavaScript-Mastery-Pro/storage_management_solution.git
-cd storage_management_solution
+git clone https://github.com/Aminafarah2/Google-drive
+
 Installation
 
 Install the project dependencies using npm:
